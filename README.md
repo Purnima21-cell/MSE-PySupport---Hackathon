@@ -7,4 +7,5 @@ Task: Prediction- Train/test models using Simulation data and score the holdout 
 
 Evaluation Metric: Teams were ranked based on how large their R-square is. The largest R-square wins the competition.
 Resulted R-square: 0.84718
+
 Rank: 8 out of 16
